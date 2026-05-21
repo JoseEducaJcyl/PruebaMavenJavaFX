@@ -1,11 +1,28 @@
 # PruebaMavenJavaFX
 
-Pequeño proyecto de aprendizaje que demuestra el uso de JavaFX para crear interfaces gráficas interactivas. Incluye ejemplos prácticos de:
+Proyecto de prueba desarrollado en Java utilizando JavaFX y Maven.
 
-- **Layouts básicos**: `VBox`, `HBox`, `GridPane` y `BorderPane`.
-- **Eventos**: Cada botón responde a clics realizando acciones como cambiar textos, mostrar alertas o abrir ventanas.
-- **Validación de formularios**: Comprobación de campos obligatorios y formato de teléfono (9 dígitos).
-- **Diálogos**: Uso de `Alert` (información, advertencia), `TextInputDialog` (entrada de texto) y `ChoiceDialog` (selección de opciones).
-- **Múltiples ventanas**: Apertura de una ventana secundaria desde la principal.
+## Descripción
 
-Para ejecutarlo, necesitas Java 11 o superior y Maven. Clona el repositorio y ejecuta `mvn javafx:run` en la raíz del proyecto.
+Esta aplicación sirve como ejemplo base para trabajar con interfaces gráficas en Java mediante JavaFX, gestionando las dependencias y la compilación con Maven.
+
+El proyecto permite ejecutar una ventana gráfica sencilla y utilizar la estructura típica de aplicaciones JavaFX organizadas con Maven.
+
+## Tecnologías utilizadas
+
+- Java
+- JavaFX
+- Maven
+
+## Requisitos
+
+- JDK 17 o superior
+- Maven instalado
+- IDE compatible con JavaFX (IntelliJ IDEA, NetBeans o Eclipse)
+
+## Ejecución del proyecto
+
+Clonar el repositorio:
+
+```bash
+git clone https://github.com/JoseEducaJcyl/PruebaMavenJavaFX.git
